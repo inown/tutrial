@@ -1,3 +1,1 @@
-
-console.log('AA');
-console.log('RR');
+console.log('A');
